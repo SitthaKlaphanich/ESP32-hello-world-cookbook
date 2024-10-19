@@ -16,11 +16,16 @@ hello world และให้โชว์ ข้อมูลต่างๆ ข
 
 for (int i = 1; i <= 12; i++) {
         printf("9 x %d = %d\n", i, i * 9);
-} // กำหนด for loop สูตรคูณแม่ 9  แล้วใช้ printf แสดงผลข้อมูลที่่กำหนด
+} // กำหนด for loop ให้ i = 1 ถ้า i น้อยกว่าหรือจนกว่าเท่า 12 ให้ i++ ค่าไปเรื่อยๆ แล้วใช้ printf แสดงผลข้อมูลที่่กำหนด
 ```
 หลังจากนั้น build flash เพื่อดูผลการทำงาน
    
 ![image](https://github.com/user-attachments/assets/317bb304-ae88-4e98-8e11-97ace0b85e85)
+
+4.แสดงผล Hi ESP32 พร้อมสูตรคูณ แม่ 9
+
+![image](https://github.com/user-attachments/assets/3a30f335-8b2a-4ea6-9228-99c61765a74b)
+
 
 
 
