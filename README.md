@@ -26,7 +26,8 @@ for (int i = 1; i <= 12; i++) {
 
 ![image](https://github.com/user-attachments/assets/3a30f335-8b2a-4ea6-9228-99c61765a74b)
 
-
+5.คำสั่ง printf สามารถนำมาใช้ได้หลายรูปแบบ ตั้งแต่ แสดงข้อมูล ธรรมดา จนสามารถ นำมา
+ใช้ ร่วมกับการบอกรายละเอียดของ ESP32 เพื่อแสดงผลผ่าน Serial Monitor
 
 
 
